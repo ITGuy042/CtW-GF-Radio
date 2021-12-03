@@ -1,0 +1,97 @@
+### GF: Season 1 Volume 1 ###
+
+music = {
+	name = "GF_season1v1_1"
+	file = "After All These Years.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_season1v1_2"
+	file = "Euro Pop.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_season1v1_3"
+	file = "Evening at the Shack.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_season1v1_4"
+	file = "Fight Fighters.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_season1v1_5"
+	file = "Finding Americas Silliest Secret.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_season1v1_6"
+	file = "Finding the Crystals.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_season1v1_7"
+	file = "Finding The Journal.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_season1v1_8"
+	file = "Gnome Chase.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_season1v1_9"
+	file = "Inconveniencing 80s Horror.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_season1v1_10"
+	file = "Jurassic Cavarn.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_season1v1_11"
+	file = "Meeting Bill in the Stans Mind.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_season1v1_12"
+	file = "Night Of Enchantment Musak.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_season1v1_13"
+	file = "Sorrow of the Shooting Star.ogg"
+	volume = 0.65
+}
+music = {
+	name = "GF_season1v1_14"
+	file = "The Battle for the Mind.ogg"
+	volume = 0.65
+}
+music = {
+	name = "GF_season1v1_15"
+	file = "The Big Chase.ogg"
+	volume = 0.65
+}
+music = {
+	name = "GF_season1v1_16"
+	file = "Visiting The Shack.ogg"
+	volume = 0.65
+}
+
+
+

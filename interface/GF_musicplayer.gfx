@@ -1,0 +1,15 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_gravity_falls_game_radio_cover"
+		texturefile = "gfx/interface/topbar/album_art/gravity_falls_game_album_art.dds"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
+		name = "GFX_gravity_falls_season_1_radio_cover"
+		texturefile = "gfx/interface/topbar/album_art/radio_station_GF_season_1.dds"
+		noOfFrames = 2
+	}
+	
+}

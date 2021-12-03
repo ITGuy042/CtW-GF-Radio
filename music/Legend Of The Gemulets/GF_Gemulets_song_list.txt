@@ -1,0 +1,65 @@
+music_station =  "GF_Gemulets"      #"legend_of_the_gemulets"
+
+music = {
+	song = "GF_Gemulets_1"
+}
+
+music = {
+	song = "GF_Gemulets_2"
+}
+
+music = {
+	song = "GF_Gemulets_3"
+}
+
+music = {
+	song = "GF_Gemulets_4"
+}
+
+music = {
+	song = "GF_Gemulets_5"
+}
+
+music = {
+	song = "GF_Gemulets_6"
+}
+
+music = {
+	song = "GF_Gemulets_7"
+}
+
+music = {
+	song = "GF_Gemulets_8"
+}
+
+music = {
+	song = "GF_Gemulets_9"
+}
+
+music = {
+	song = "GF_Gemulets_10"
+}
+
+music = {
+	song = "GF_Gemulets_11"
+}
+
+music = {
+	song = "GF_Gemulets_12"
+}
+
+music = {
+	song = "GF_Gemulets_13"
+}
+
+music = {
+	song = "GF_Gemulets_14"
+}
+
+music = {
+	song = "GF_Gemulets_15"
+}
+
+music = {
+	song = "GF_Gemulets_16"
+}

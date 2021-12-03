@@ -1,0 +1,65 @@
+music_station =  "GF_season1v1" 
+
+music = {
+	song = "GF_season1v1_1"
+}
+
+music = {
+	song = "GF_season1v1_2"
+}
+
+music = {
+	song = "GF_season1v1_3"
+}
+
+music = {
+	song = "GF_season1v1_4"
+}
+
+music = {
+	song = "GF_season1v1_5"
+}
+
+music = {
+	song = "GF_season1v1_6"
+}
+
+music = {
+	song = "GF_season1v1_7"
+}
+
+music = {
+	song = "GF_season1v1_8"
+}
+
+music = {
+	song = "GF_season1v1_9"
+}
+
+music = {
+	song = "GF_season1v1_10"
+}
+
+music = {
+	song = "GF_season1v1_11"
+}
+
+music = {
+	song = "GF_season1v1_12"
+}
+
+music = {
+	song = "GF_season1v1_13"
+}
+
+music = {
+	song = "GF_season1v1_14"
+}
+
+music = {
+	song = "GF_season1v1_15"
+}
+
+music = {
+	song = "GF_season1v1_16"
+}

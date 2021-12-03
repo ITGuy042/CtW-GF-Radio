@@ -1,0 +1,97 @@
+### GF: Legend of the Gemulets ###
+
+music = {
+	name = "GF_Gemulets_1"
+	file = "Check out All My Splinters! (Old Mines).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_Gemulets_2"
+	file = "Ciphers_and_Secrets_(Cave).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_Gemulets_3"
+	file = "Dipper_and_Mabel_vs_the_Boss_(Boss Battle).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_Gemulets_4"
+	file = "Dipper and Mabel vs the Final Boss (Gemularth Battle).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_Gemulets_5"
+	file = "Domain of the Gobblewonker (Lake).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_Gemulets_6"
+	file = "Finding Loggo (Creature Chase).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_Gemulets_7"
+	file = "Gnome-man's Land (Dark Woods).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_Gemulets_8"
+	file = "Into the Un-gnome (Gnome Forest).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_Gemulets_9"
+	file = "Just West of Weird (Town Map).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_Gemulets_10"
+	file = "Little Gift Shop of Horrors (Mystery Shack).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_Gemulets_11"
+	file = "Never Mind All That (Main Street).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_Gemulets_12"
+	file = "No Place Like Gnome (Gnome Forest Hideout).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_Gemulets_13"
+	file = "The Oregon Trail (Deep Woods).ogg"
+	volume = 0.65
+}
+music = {
+	name = "GF_Gemulets_14"
+	file = "The Rise of Dark Jeff.ogg"
+	volume = 0.65
+}
+music = {
+	name = "GF_Gemulets_15"
+	file = "Tradin' Spores with Old Man McGucket (Junkyard).ogg"
+	volume = 0.65
+}
+music = {
+	name = "GF_Gemulets_16"
+	file = "Your Brains and my Laser Focus (Puzzle Room).ogg"
+	volume = 0.65
+}
+
+
+
