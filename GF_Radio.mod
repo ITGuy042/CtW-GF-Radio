@@ -1,4 +1,4 @@
-name="GF Radio"
+name="Gravity Falls Radio"
 tags={
 	"Sound"
 }
