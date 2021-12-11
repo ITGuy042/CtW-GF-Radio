@@ -1,7 +1,7 @@
 name="GF Radio"
 tags={
-	"Map"
-	"Utilities"
+	"Sound"
 }
 supported_version="1.11.*"
-path="C:/Users/Admin/Documents/Paradox Interactive/Hearts of Iron IV/mod/GF_Radio"
+picture="thumbnail.PNG"
+path="C:/Users/ian/Documents/Paradox Interactive/Hearts of Iron IV/mod/GF_Radio"

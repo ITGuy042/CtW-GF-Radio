@@ -2,64 +2,169 @@ music_station =  "GF_Gemulets"      #"legend_of_the_gemulets"
 
 music = {
 	song = "GF_Gemulets_1"
+	chance = {
+		modifier = {
+		  factor = 40
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_Gemulets_2"
+	chance = {
+		modifier = {
+		  factor = 40
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_Gemulets_3"
+	chance = {
+		modifier = {
+		  factor = 40
+		  has_war = yes
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_Gemulets_4"
+	chance = {
+		modifier = {
+		  factor = 40
+		  has_war = yes
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_Gemulets_5"
+	chance = {
+		modifier = {
+		  factor = 40
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_Gemulets_6"
+	chance = {
+		modifier = {
+		  factor = 40
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_Gemulets_7"
+	chance = {
+		modifier = {
+		  factor = 40
+		  has_war = yes
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_Gemulets_8"
+	chance = {
+		modifier = {
+		  factor = 40
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_Gemulets_9"
+	chance = {
+		modifier = {
+		  factor = 40
+		  has_war = no
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_Gemulets_10"
+	chance = {
+		modifier = {
+		  factor = 40
+		  has_war = no
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_Gemulets_11"
+	chance = {
+		modifier = {
+		  factor = 40
+		  has_war = no
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_Gemulets_12"
+	chance = {
+		modifier = {
+		  factor = 40
+		  has_war = no
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_Gemulets_13"
+	chance = {
+		modifier = {
+		  factor = 40
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_Gemulets_14"
+	chance = {
+		modifier = {
+		  factor = 40
+		  has_war = yes
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_Gemulets_15"
+	chance = {
+		modifier = {
+		  factor = 40
+		  has_war = no
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_Gemulets_16"
+	chance = {
+		modifier = {
+		  factor = 40
+		  TAG = MYS
+		}
+	}
 }

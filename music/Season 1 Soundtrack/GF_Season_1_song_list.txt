@@ -2,64 +2,170 @@ music_station =  "GF_season1v1"
 
 music = {
 	song = "GF_season1v1_1"
+	chance = {
+		modifier = {
+		  factor = 40
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_season1v1_2"
+	chance = {
+		modifier = {
+		  factor = 40
+		  has_war = no
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_season1v1_3"
+	chance = {
+		modifier = {
+		  factor = 40
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_season1v1_4"
+	chance = {
+		modifier = {
+		  factor = 80
+		  has_war = yes
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_season1v1_5"
+	chance = {
+		modifier = {
+		  factor = 40
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_season1v1_6"
+	chance = {
+		modifier = {
+		  factor = 40
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_season1v1_7"
+	chance = {
+		modifier = {
+		  factor = 40
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_season1v1_8"
+	chance = {
+		modifier = {
+		  factor = 40
+		  has_war = yes
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_season1v1_9"
+	chance = {
+		modifier = {
+		  factor = 40
+		  has_war = yes
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_season1v1_10"
+	chance = {
+		modifier = {
+		  factor = 40
+		  has_war = no
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_season1v1_11"
+	chance = {
+		modifier = {
+		  factor = 40
+		  has_war = yes
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_season1v1_12"
+	chance = {
+		modifier = {
+		  factor = 40
+		  has_war = no
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_season1v1_13"
+	chance = {
+		modifier = {
+		  factor = 40
+		  has_war = yes
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_season1v1_14"
+	chance = {
+		modifier = {
+		  factor = 80
+		  has_war = yes
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_season1v1_15"
+	chance = {
+		modifier = {
+		  factor = 40
+		  TAG = MYS
+		}
+	}
 }
 
 music = {
 	song = "GF_season1v1_16"
+	chance = {
+		modifier = {
+		  factor = 40
+		  has_war = no
+		  TAG = MYS
+		}
+	}
 }
