@@ -1,0 +1,73 @@
+### Gravity Falls Vinyl: Side A ###
+
+music = {
+	name = "GF_side_A_1"
+	file = "1_Gravity_Falls_Vinyl_Intro.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_A_2"
+	file = "2_Lets_Rewind.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_A_3"
+	file = "3_Gobblewonker_Chase.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_A_4"
+	file = "4_Pig_Is_Soos.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_A_5"
+	file = "5_Book_Discovery.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_A_6"
+	file = "6_Wax_Battle.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_A_7"
+	file = "7_Boyz_Crazy_Medley.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_A_8"
+	file = "8_Lets_Do_This.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_A_9"
+	file = "9_Is_It_Bottomless.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_A_10"
+	file = "10_Lamby.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_A_11"
+	file = "11_Fight_Fighters.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_A_12"
+	file = "12_Blanchin.ogg"
+	volume = 0.65
+}

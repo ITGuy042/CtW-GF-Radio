@@ -1,0 +1,67 @@
+### Gravity Falls Vinyl: Side B ###
+
+music = {
+	name = "GF_side_B_1"
+	file = "13_Finally_I_Have_Them_All.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_B_2"
+	file = "14_Gideons_Song.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_B_3"
+	file = "15_Its_All_Led_Up_To_This.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_B_4"
+	file = "16_Working_Girls.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_B_5"
+	file = "17_Gnome_Chase.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_B_6"
+	file = "18_Gideon_Rises.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_B_7"
+	file = "19_Whos_That_Girl.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_B_8"
+	file = "20_Fiddleford_Hadron_McGucket.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_B_9"
+	file = "21_Stan_Wrong_Song.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_B_10"
+	file = "22_Tricky_Triangle.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_B_11"
+	file = "B_Disco_Girl.ogg"
+	volume = 0.65
+}

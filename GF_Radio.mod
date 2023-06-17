@@ -1,7 +1,7 @@
-name="Gravity Falls Radio"
+name="GF_Radio"
 tags={
 	"Sound"
 }
-supported_version="1.11.*"
 picture="thumbnail.PNG"
-path="C:/Users/ian/Documents/Paradox Interactive/Hearts of Iron IV/mod/GF_Radio"
+supported_version="1.12.*"
+path="C:/Users/ianjo/Documents/Paradox Interactive/Hearts of Iron IV/mod/GF_Radio"

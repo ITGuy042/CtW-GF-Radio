@@ -1,0 +1,61 @@
+### Gravity Falls Vinyl: Side C ###
+
+music = {
+	name = "GF_side_C_1"
+	file = "23_A_World_of_Enchantment.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_C_2"
+	file = "24_The_Two_Kids_Who_Ruined_My_Life.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_C_3"
+	file = "25_Everything_Changes_Today.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_C_4"
+	file = "26_Time_Battle.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_C_5"
+	file = "27_Blackened_Skies.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_C_6"
+	file = "28_Dont_Let_Them_Escape.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_C_7"
+	file = "29_I_Wanna_Be_Exes.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_C_8"
+	file = "30_ I_Need_That_Machine_To_Stay_On.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_C_9"
+	file = "31_Yeah_Dude_Friends.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_C_10"
+	file = "32_Takin_Over_2_Nite.ogg"
+	volume = 0.65
+}

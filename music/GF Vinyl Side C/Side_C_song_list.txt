@@ -1,0 +1,71 @@
+music_station =  "GF_side_C" 
+
+music = {
+	song = "GF_side_C_1"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "GF_side_C_2"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "GF_side_C_3"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "GF_side_C_4"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "GF_side_C_5"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "GF_side_C_6"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "GF_side_C_7"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "GF_side_C_8"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "GF_side_C_9"
+	chance = {
+		factor = 1
+	}
+}
+
+music = {
+	song = "GF_side_C_10"
+	chance = {
+		factor = 1
+	}
+}

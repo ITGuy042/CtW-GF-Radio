@@ -1,6 +1,6 @@
 guiTypes = {
 	containerWindowType = {
-		name = "GF_Gemulets_faceplate" # "*name*_faceplate"
+		name = "GF_side_D_faceplate" # "*name*_faceplate"
 		position = { x=0 y=0 }
 		size = { width = 590 height = 46 }
 
@@ -111,13 +111,13 @@ guiTypes = {
 	}
 
 	containerWindowType={
-		name = "GF_Gemulets_stations_entry" # "*name*_stations_entry"
+		name = "GF_side_D_stations_entry" # "*name*_stations_entry"
 		size = { width = 162 height = 130 }
 		
 		checkBoxType = {
 			name = "select_station_button"
 			position = { x = 0 y = 0 }
-			quadTextureSprite = "GFX_gravity_falls_game_radio_cover"
+			quadTextureSprite = "GFX_gravity_falls_vinyl_side_D_cover"
 			clicksound = decisions_ui_button
 		}
 	}

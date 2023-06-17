@@ -1,0 +1,67 @@
+### Gravity Falls Vinyl: Side D ###
+
+music = {
+	name = "GF_side_D_1"
+	file = "33_Mabel_Its_Bill.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_D_2"
+	file = "34_Goat_And_A_Pig.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_D_3"
+	file = "35_Weirdmageddon_1.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_D_4"
+	file = "36_ Giggle_Creek.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_D_5"
+	file = "37_Bill_Tricked_Me.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_D_6"
+	file = "38_Made_of_Rainbows.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_D_7"
+	file = "39_Im_a_Flippin_Corduroy.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_D_8"
+	file = "40_Saying_Goodbye.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_D_9"
+	file = "41_Weirdmageddon_End_Credits.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_D_10"
+	file = "42_Gravity_Falls_Vinyl_Intro_BILL.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "GF_side_D_11"
+	file = "43_Well_Meet_Again.ogg"
+	volume = 0.65
+}

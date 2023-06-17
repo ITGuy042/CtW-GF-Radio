@@ -1,7 +1,8 @@
-The CtW Radio Mod containing Two Stations and Thirty-Two Songs sourced from Gravity Falls media.
+The CtW Radio Mod containing Six Stations and Seventy-Six Songs sourced from Gravity Falls media.
 
 Station 1 contains parts of the Volume 1 Original Soundtrack Excerpts of Gravity Falls Season 1
 Station 2 contains the soundtrack to the game Gravity Falls: Legend of the Gnome Gemulets
+Station 3-6 contains the sountrack of the Gravity Falls Vinyl, divided into Side A, B, C, and D, respectively along with a remix of the unreleased Disco Girl
 
 Station 1 song list (Some renamed from the original excerpts):
 After All These Years...
@@ -39,7 +40,61 @@ The Rise of Dark Jeff
 Tradin' Spores with Old Man McGucket
 Your Brains and my Laser Focus
 
+Station 3 song list:
+Gravity Falls Main Title Theme
+Let's Rewind
+Gobblewonker Chase
+Pig Is Soos
+Book Discovery - Gideon's Theme
+Wax Battle
+Boyz Crazy Medley
+Let's Do This
+Is It Bottomless - Triangulum Entagulum
+ybmaL A stnaW ohW
+Fight Fighters - Battle Suite
+Blanchin
+
+Station 4 song list:
+Finally I Have Them All
+Gideon's Song
+It's All Let Up To This
+Working Girls
+Gnome Chase
+Gideon Rises - End Credits
+Who's That Girl
+Fiddleford Hadron Magucket
+Stan Wrong Song
+A Very Tricky Triangle
+Disco Girl
+
+Station 5 song list:
+A World of Enchantment or Whatever - I Came Up With A Plan
+The Two Kids Who Ruined My Life
+Everything Changes Today
+TIME BATTLE!!!
+Blackened Skies
+Don't Let Them Escape
+I Wanna Be Exes
+I Need That Machine To Stay On
+Yeah Dude Friends - Your Fighting Only Makes Us Look More Rad
+Takin' Over 2 Nite
+
+Station 6 song list:
+Mabel It's Bill
+Goat and a Pig
+Weirdmageddon Pt. 1 - Suite
+Giggle Creek
+Bill Tricked Me
+My Heart Is Made of Rainbows
+I'm a Flippin' Corduroy
+Saying Goodbye to Gravity Falls
+Weirdmageddon Pt. 4 - End Credits
+Grvatiy lFals ehTme (s'lliB deppohC dna dewercS ximeR)
+We'll Meet Again
+
 Station 1 Songs sourced from the SoundCloud of Composer Brad Breeck.
 Station 2 Songs sourced from the YouTube playlist of Danominator Soundtracks, composed by Nicholas Bonardi
+Station 3-6 Songs are sourced from twentysixbit on youtube, originating from the Gravity Falls Vinyl
+- The Song in Station 4, "Disco Girl" is sourced from AHM on youtube, an edited remix of the unreleased song without conversation
 
-Mod created by ITGuy042#0641
+Mod created by ITGuy042

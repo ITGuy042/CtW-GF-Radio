@@ -1,14 +1,38 @@
 spriteTypes = {
 	
 	spriteType = {
+		name = "GFX_gravity_falls_season_1_radio_cover"
+		texturefile = "gfx/interface/topbar/album_art/radio_station_GF_season_1.dds"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
 		name = "GFX_gravity_falls_game_radio_cover"
 		texturefile = "gfx/interface/topbar/album_art/gravity_falls_game_album_art.dds"
 		noOfFrames = 2
 	}
 	
 	spriteType = {
-		name = "GFX_gravity_falls_season_1_radio_cover"
-		texturefile = "gfx/interface/topbar/album_art/radio_station_GF_season_1.dds"
+		name = "GFX_gravity_falls_vinyl_side_A_cover"
+		texturefile = "gfx/interface/topbar/album_art/radio_station_GF_Vinyl_A.dds"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
+		name = "GFX_gravity_falls_vinyl_side_B_cover"
+		texturefile = "gfx/interface/topbar/album_art/radio_station_GF_Vinyl_B.dds"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
+		name = "GFX_gravity_falls_vinyl_side_C_cover"
+		texturefile = "gfx/interface/topbar/album_art/radio_station_GF_Vinyl_C.dds"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
+		name = "GFX_gravity_falls_vinyl_side_D_cover"
+		texturefile = "gfx/interface/topbar/album_art/radio_station_GF_Vinyl_D.dds"
 		noOfFrames = 2
 	}
 	
